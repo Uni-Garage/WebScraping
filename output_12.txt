@@ -1,0 +1,22 @@
+Title: Login Required
+
+Paragraph: 
+Send Feedback
+
+Paragraph: Your bookmarks list is empty
+Paragraph: Add bookmarks by clicking on the  icon when viewing course lessons or articles.
+Paragraph: Continue Learning
+Paragraph: Recently viewed resources will appear in your Continue Learning list.
+Paragraph: Not sure where to begin? Read our Start Here guide or pick a Learning Path.
+Paragraph: Sorry, we couldn’t find any results matching this query.
+Paragraph: Search Tips:
+Paragraph: You are not logged in. Filtering by bookmark status or learning progress requires a Real Python account. Creating an account is completely free and only takes a minute:
+Paragraph: 
+[[ result.pub_date ]]
+
+[[ cat ]]
+
+Paragraph: [[ result.description ]]
+Paragraph: There was an error, please click here to try again.
+Paragraph: © 2012–2024 Real Python ⋅ Privacy Policy
+
